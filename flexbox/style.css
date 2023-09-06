@@ -1,0 +1,30 @@
+#div_card {
+    width: 80%;
+    height: 500px;
+    background-color: darkgray;
+    border: solid 5px #020202;
+    border-radius: 15px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* flex-direction: column; */
+}
+
+
+
+.div_circle {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+
+.Color1 {
+    background-color: tomato;
+}
+.Color2 {
+    background-color: steelblue;
+}
+.Color3 {
+    background-color: yellowgreen;
+}
